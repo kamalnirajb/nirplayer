@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No audio is found.</string>
+    <string name="audio_list">Skoovin\'</string>
+    <string name="action_favorite">Add to favourite</string>
+    <string name="favourite">favourite_audio</string>
+</resources>

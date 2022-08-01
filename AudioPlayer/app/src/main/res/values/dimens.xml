@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_normal">5dp</dimen>
+    <dimen name="card_min_height">80dp</dimen>
+    <dimen name="card_corner_radius">5dp</dimen>
+    <dimen name="card_img_dimen">200dp</dimen>
+    <dimen name="txt_min_height">30dp</dimen>
+    <dimen name="txt_size_title">20sp</dimen>
+    <dimen name="btn_icon_dimen">25dp</dimen>
+    <dimen name="margin_text_title">40dp</dimen>
+    <dimen name="margin_item">3dp</dimen>
+    <dimen name="margin_fab">10dp</dimen>
+    <dimen name="txt_size_progress">16sp</dimen>
+    <dimen name="btn_dimen">50dp</dimen>
+</resources>
